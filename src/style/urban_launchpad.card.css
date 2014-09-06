@@ -1,3 +1,10 @@
+.card_content {
+	background: rgba(0,0,0,0.3);
+	height:100%;
+	margin-top: -32px;
+	padding: 6em 100px .5em 100px;
+}
+
 .card_title {
 	font-family: 'Raleway', Helvetica, Arial, sans-serif;
 	font-weight: 300;
@@ -5,17 +12,13 @@
 	letter-spacing: 5px;
 	font-size: 3em;
 	color: white;
-	margin-top: 2em;
-	margin-left: 100px;
-	padding-right:100px;
 }
 .card_location{
 	color: white;
 	font-family: 'Raleway', Helvetica, Arial, sans-serif;
 	font-weight: 400;
 	font-size: 1.5em;
-	margin-left: 100px;
-	padding-right:100px;
+	padding: 0 0;
 }
 .story_paragraph{
 	color: white;
@@ -23,7 +26,6 @@
 	font-weight: 400;
 	font-size: 1em;
 	line-height: 1.5em;
-	margin-left: 100px;
-	padding-right:100px;
+	padding: 0 0;
 	width: 60%;
 }
